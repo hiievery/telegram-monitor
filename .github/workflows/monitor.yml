@@ -14,7 +14,7 @@ on:
           - run
 
   schedule:
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
 
 permissions:
   contents: write
